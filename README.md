@@ -8,7 +8,6 @@
   <a href="https://project-zombooks.vercel.app"><strong>Live Demo 🚀</strong></a>
 </p>
 
----
 
 ## 📚 What is Zombooks?
 
