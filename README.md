@@ -1,8 +1,12 @@
-# 🧟‍♂️ Project Zombooks
+<h1 align="center">🧟‍♂️ Project Zombooks</h1>
 
-Welcome to **Project Zombooks** — a lightweight web app that helps you keep track of which books you've collected and read during your run in *Project Zomboid*. Never lose track of your survivor's skills again!
+<p align="center">
+  <strong>Project Zombooks</strong> is a lightweight web app that helps you keep track of which books you've collected and read during your run in <em>Project Zomboid</em>. Never lose track of your survivor's skills again!
+</p>
 
-[Live Demo 🚀](https://project-zombooks.vercel.app)
+<p align="center">
+  <a href="https://project-zombooks.vercel.app"><strong>Live Demo 🚀</strong></a>
+</p>
 
 ---
 
