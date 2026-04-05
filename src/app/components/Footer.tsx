@@ -1,5 +1,5 @@
 "use client";
-import { FaHeart, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaHeart, FaGithub } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import { KoFiButton } from "@/app/components/KoFiWidget"; 
 
