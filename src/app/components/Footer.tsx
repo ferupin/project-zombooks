@@ -66,7 +66,6 @@ export default function Footer() {
                     >
                         <FaGithub />
                     </a>
-                    </a>
                 </div>
             </div>
         </footer>
